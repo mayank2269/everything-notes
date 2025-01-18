@@ -30,9 +30,11 @@ This is an AI-powered personal assistant built using **Streamlit** and **LLaMA I
    ```bash
    pip install -r requirements.txt
    ```
-   -Also make sure you have installed the ollama application for hosting the llm
-   -link :-https://ollama.com/download
-   -after installation use comandline to download the model , i have used tinyllama so command is
+-Also make sure you have installed the ollama application for hosting the llm
+
+-link :-https://ollama.com/download
+
+-after installation use comandline to download the model , i have used tinyllama so command is
    ```bash
    ollama pull tinyllama
    ```
